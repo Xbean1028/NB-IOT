@@ -1,0 +1,4 @@
+# Created at 2019-09-29T13:53:12.430
+Boot Manifest-JAR contains absolute paths in classpath 'H:\520实验室\NB-IoT设备编解码插件\source_code\codecDemo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

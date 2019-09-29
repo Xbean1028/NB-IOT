@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "manufacturerName": "hitwhiot",
+      "manufacturerId": "056eaa6fc6af46f58e513758f9027e67",
+      "model": "NB_Light",
+      "protocolType": "CoAP",
+      "deviceType": "StreetLight",
+      "serviceTypeCapabilities": [
+        {
+          "serviceId": "Light",
+          "serviceType": "Light",
+          "option": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "specVersion": "1.0",
+  "fileName": "package.zip",
+  "version": "1.0.0",
+  "deviceType":"StreetLight",  
+    "manufacturerName":"hitwhiot", 
+    "model":"NB_Light", 
+    "description":"codec", 
+    "platform":"linux", 
+    "packageType":"CIGPlugin", 
+    "date":"2019-09-06 12:16:59", 
+  "ignoreList": [],
+  "bundles": [
+    {
+       "bundleName": "StreetLight-056eaa6fc6af46f58e513758f9027e67-NB_Light", 
+        "bundleVersion": "1.0.0", 
+        "priority":5, 
+        "fileName": "StreetLight-056eaa6fc6af46f58e513758f9027e67-NB_Light-1.0.0.jar", 
+        "bundleDesc":"", 
+        "versionDesc":""
+    }
+  ]
+}

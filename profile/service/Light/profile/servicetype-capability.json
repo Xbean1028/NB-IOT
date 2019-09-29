@@ -1,0 +1,48 @@
+{
+  "services": [
+    {
+      "serviceType": "Light",
+      "description": "",
+      "commands": [
+        {
+          "commandName": "Control",
+          "paras": [
+            {
+              "paraName": "LED",
+              "dataType": "string",
+              "required": true,
+              "min": "1",
+              "max": "2147483647",
+              "step": 0.0,
+              "maxLength": 4,
+              "unit": null,
+              "enumList": [
+                "ON",
+                "OFF",
+                "0011",
+                "1100",
+                "1111"
+              ]
+            }
+          ],
+          "responses": []
+        }
+      ],
+      "properties": [
+        {
+          "propertyName": "light",
+          "dataType": "int",
+          "required": true,
+          "min": "0",
+          "max": "65535",
+          "step": 0.0,
+          "maxLength": 0,
+          "method": "RWE",
+          "unit": "Lux",
+          "enumList": null
+        }
+      ],
+      "events": []
+    }
+  ]
+}
